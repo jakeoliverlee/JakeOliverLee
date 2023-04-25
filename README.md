@@ -4,7 +4,10 @@ My name is Jake and I am a Data Centre Engineer at Amazon Web Services!
 
 I do development stuff on the side, my main language being Python :snake:.
 
-I am currently learning front-end languages like Javascript and Typescript!
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakeoliverlee)
+
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=jakeoliverlee&theme=react)
+
 
 
 
