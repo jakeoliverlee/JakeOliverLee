@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 <p align="center">
 My name is Jake and I am a Data Centre Engineer at Amazon Web Services!
-<p align="center">I do development stuff on the side, my main language being Python :snake:.</p>
+<p align="center">I do development stuff on the side, entirely self-taught.</p>
 </p>
 
 
