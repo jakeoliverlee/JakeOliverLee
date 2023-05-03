@@ -17,7 +17,7 @@ My name is Jake and I am a Data Centre Engineer at Amazon Web Services!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,ansible,docker,nodejs,kafka,redis,linux,mongodb,nginx,mysql,postgres,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=aws,git,ansible,docker,nodejs,kafka,redis,linux,mongodb,nginx,mysql,postgres,kubernetes,firebase" />
   </a>
 </p>
 
