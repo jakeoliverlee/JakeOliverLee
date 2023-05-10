@@ -3,7 +3,10 @@
 My name is Jake and I am a Data Centre Engineer at Amazon Web Services!
 <p align="center">I do development stuff on the side, entirely self-taught.</p>
 </p>
-
+ 
+<p align='center'>
+   <a href='mailto:jakeoliverlee@gmail.com'>📫 Reach out to me!</a>
+</p>
 
 <h2 align="center">Programming Languages</h2>
 
