@@ -32,8 +32,7 @@ My name is Jake and I am a Data Centre Engineer at Amazon Web Services!
   </a>
 </p>
 
-<h2 align="center">My Activity</h2>
 
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=jakeoliverlee&theme=react)
+
 
 
