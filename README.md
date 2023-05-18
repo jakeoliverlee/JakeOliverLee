@@ -2,6 +2,7 @@
 <p align="center">
 My name is Jake and I am a Data Centre Engineer at Amazon Web Services!
 <p align="center">I do development stuff on the side, entirely self-taught.</p>
+<p align="center">Currently learning Golang, Rust and how to use vim properly...</p>
 </p>
  
 <p align='center'>
