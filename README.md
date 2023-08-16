@@ -13,7 +13,7 @@ My name is Jake and I am a Data Centre Engineer at Amazon Web Services!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,js,typescript,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,go,bash,js,typescript,css,html" />
   </a>
 </p>
 
