@@ -9,11 +9,19 @@ My name is Jake and I am a Data Centre Engineer at Amazon Web Services!
    <a href='mailto:jakeoliverlee@gmail.com'>📫 Reach out to me!</a>
 </p>
 
-<h2 align="center">Programming Languages</h2>
+<h2 align="center">Preffered Languages</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,bash,js,typescript,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,go,bash" />
+  </a>
+</p>
+
+<h2 align="center">Familiar Languages</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,javascript" />
   </a>
 </p>
 
